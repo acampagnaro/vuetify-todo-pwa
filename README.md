@@ -9,8 +9,8 @@ This project is a simple Todo [PWA] (Progressive Web App) inspired by [TodoMVC].
 [Vuetify]: https://vuetifyjs.com
 
 <p align="center">
-  <a href="https://vuetifytodo.davidgaroro.es" target="_blank" rel="noopener">
-    <img src="https://vuetifytodo.davidgaroro.es/github/app.png">
+  <a href="https://todo.spitzer.com.br" target="_blank" rel="noopener">
+    <img src="https://storage.googleapis.com/spitzer-io/img/app.png">
     Live Demo
   </a>
 </p>
@@ -62,7 +62,7 @@ This project is a simple Todo [PWA] (Progressive Web App) inspired by [TodoMVC].
 ## Installation & Setup
 ### Clone repository
 ```
-git clone https://github.com/davidgaroro/vuetify-todo-pwa.git
+git clone https://github.com/acampagnaro/vuetify-todo-pwa.git
 cd vuetify-todo-pwa
 ```
 

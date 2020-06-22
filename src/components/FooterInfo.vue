@@ -2,7 +2,7 @@
 <footer class="caption">
   <p>Double-click to edit a todo</p>
   <p>Inspired by <a href="http://todomvc.com" target="_blank" rel="noopener">TodoMVC</a></p>
-  <p><a href="https://github.com/davidgaroro/vuetify-todo-pwa" target="_blank" rel="noopener">View on GitHub</a></p>
+  <p><a href="https://github.com/acampagnaro/vuetify-todo-pwa" target="_blank" rel="noopener">View on GitHub</a></p>
 </footer>
 </template>
 
