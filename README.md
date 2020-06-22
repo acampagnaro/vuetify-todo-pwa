@@ -86,4 +86,4 @@ npm run build
 npm run lint
 ```
 ## License
-[MIT](./LICENSE) &copy; davidgaroro
+[MIT](./LICENSE) &copy; acampagnaro
