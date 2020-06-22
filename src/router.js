@@ -5,6 +5,8 @@ import Home from './views/Home.vue'
 Vue.use(Router)
 
 const router = new Router({
+  mode: 'history', // Demo is living in GitHub.io, so required! hash history
+  history: true,
   scrollBehavior: () => ({ y: 0 }),
   routes: [
     {
